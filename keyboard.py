@@ -8,7 +8,7 @@ class keyboard():
 				[
 					InlineKeyboardButton(
 						text='Inicia uma conversa',
-						url='https://telegram.me/TycotBot'
+						url='https://telegram.me/Trollmusicbot'
 					)
 				]
 			]
