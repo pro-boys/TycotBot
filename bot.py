@@ -5,7 +5,7 @@ from control_bot import control
 from bot_command import *
 from time import sleep
 
-TOKEN = sys.argv[1]
+TOKEN = '946438606:AAFEI_QUW6qTGjQeI1oNxbGiPIID18sXuM8'
 bot = telepot.Bot(TOKEN)
 
 def handle(msg):
